@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mad22-practical-6---storage-beefwhale.iml" filepath="$PROJECT_DIR$/.idea/mad22-practical-6---storage-beefwhale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MADPractical.iml" filepath="$PROJECT_DIR$/.idea/modules/MADPractical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MADPractical.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MADPractical.app.iml" />
     </modules>
   </component>
 </project>
