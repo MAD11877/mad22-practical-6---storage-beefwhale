@@ -1,0 +1,40 @@
+
+  "project_info": {
+    "project_number": "657037324210",
+    "firebase_url": "https://mad-practical-6-a1d78-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mad-practical-6-a1d78",
+    "storage_bucket": "mad-practical-6-a1d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657037324210:android:c8740ad1af5bfd1dd4beab",
+        "android_client_info": {
+          "package_name": "com.example.madpractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657037324210-abtiecv8o7bc4e6ebg9d4ddm47t7srie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcTYAqSUMpg0RbW4q-IZ5wznrHqkpDWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657037324210-abtiecv8o7bc4e6ebg9d4ddm47t7srie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

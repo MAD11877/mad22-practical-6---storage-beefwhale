@@ -73,7 +73,7 @@ public class Login extends AppCompatActivity {
                         if (loginUser.contains(username) && loginUser.contains(password)){
                             Intent ListRV = new Intent(getApplicationContext(), ListActivity.class);
                             startActivity(ListRV);
-                            Toast.makeText(Login.this, "Login Successful", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(Login.this, "", Toast.LENGTH_SHORT).show();
                         }
                         else{
                             username_input.setText("");
